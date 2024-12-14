@@ -1,0 +1,6 @@
+@QueryCraftService_HostAddress = http://localhost:5278
+
+GET {{QueryCraftService_HostAddress}}/ChatController/
+Accept: application/json
+
+###
