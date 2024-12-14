@@ -8,7 +8,10 @@ Key features include:
 - Dynamic SQL generation based on user input and database schema.
 - Cuuretly only support PostgreSQL for executing queries.
 - Utilizes OpenAI's models to ensure query accuracy and efficiency.
-  
+
+  ### **Note**: 
+This project is not fully completed and is not intended for use in production environments. It is currently in the learning phase and is provided for educational and experimentation purposes only. The project may have unfinished features that need to be addressed before it can be used in any commercial or production environment.
+
 ## Development Requirements
 
 To run and develop the **QueryCraftService**, you'll need the following tools and dependencies:
